@@ -2,10 +2,17 @@
 
 Remaster is an elite software engineering studio specializing in rebuilding legacy applications, migrating outdated tech stacks, and developing greenfield products at lightning speed. By combining senior engineering talent with cutting-edge AI automation, we eliminate tech debt in weeks instead of months.
 
-[![Website](https://shields.io)](https://airemasterstudio.com)
-[![WebMCP](https://shields.io)](https://airemasterstudio.com#pricing)
-[![LLM-Ready](https://shields.io)](https://airemasterstudio.com/llms.txt)
-
+<p align="left">
+  <a href="https://airemasterstudio.com">
+    <img src="https://shields.io" alt="Website">
+  </a>
+  <a href="https://airemasterstudio.com#pricing">
+    <img src="https://shields.io" alt="WebMCP">
+  </a>
+  <a href="https://airemasterstudio.comllms.txt">
+    <img src="https://shields.io" alt="LLM-Ready">
+  </a>
+</p>
 
 ---
 
