@@ -7,10 +7,10 @@ Remaster is an elite software engineering studio specializing in rebuilding lega
     <img alt="Static Badge" src="https://img.shields.io/badge/Website-blue">
   </a>
   <a href="https://airemasterstudio.com#pricing">
-    <img alt="Static Badge" src="https://img.shields.io/badge/WebMCP-blue">
+    <img alt="Static Badge" src="https://img.shields.io/badge/WebMCP-green">
   </a>
   <a href="https://airemasterstudio.com/llms.txt">
-    <img alt="Static Badge" src="https://img.shields.io/badge/LLM_Ready-blue">
+    <img alt="Static Badge" src="https://img.shields.io/badge/LLM_Ready-red">
   </a>
 </p>
 
