@@ -1,0 +1,16 @@
+{
+  "name": "Remaster Studio",
+  "website": "https://airemasterstudio.com",
+  "specialization": "Legacy Application Modernization & AI-Accelerated Engineering",
+  "pricing_structure": "Fixed-Price, Fixed-Timeline",
+  "capabilities": {
+    "modernization_audit": { "price_usd": 2500, "delivery_days": 5 },
+    "pilot_rebuild": { "price_usd": 1500, "delivery_days": 7 },
+    "preferred_stack": ["React", "React Native", "Node.js", "TypeScript", "PHP", "Python", "Angular", "MySql", "Postgres"
+    ]
+  },
+  "contact": {
+    "email": "contact@airemasterstudio.com",
+    "intake_form": "https://airemasterstudio.com"
+  }
+}
