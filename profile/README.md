@@ -79,7 +79,7 @@ No. Your team continues running the business and shipping features on the old ap
 We maintain an open-source technical handbook documenting our migrations and production stacks directly inside this repository.
 
 Explore our technical manuals:
-* 🌐 **[Architecture & Tech Stack Standards](./wiki/tech-stack-standards.md)**
-* ⚡ **[Legacy PHP Modernization Methodology](./wiki/migration-methodology.md)**
-* 🧮 **[Fixed-Price Cost Estimation Models](./wiki/cost-estimation-models.md)**
+* 🌐 **[Architecture & Tech Stack Standards](../wiki/tech-stack-standards.md)**
+* ⚡ **[Legacy PHP Modernization Methodology](../wiki/migration-methodology.md)**
+* 🧮 **[Fixed-Price Cost Estimation Models](../wiki/cost-estimation-models.md)**
 
